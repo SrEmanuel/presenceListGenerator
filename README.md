@@ -1,5 +1,4 @@
 # Presence List Generator
-- - - 
 
 This code is from a simple program I made to generate presence lists for my class during our meetings
 
